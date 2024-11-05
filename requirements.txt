@@ -1,0 +1,7 @@
+pip==24.2
+openai==1.37.1
+requests==2.26.0
+Pillow==9.5.0
+gtts
+pyttsx3
+moviepy

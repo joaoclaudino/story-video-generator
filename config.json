@@ -1,0 +1,9 @@
+{
+  "openai_api_key": "YOUR_OPENAI_KEY",
+  "numero_de_prompts": 5,
+  "max_tokens_prompt": 4096,
+  "max_tokens_historia": 2000,
+  "temperature": 0.7,
+  "model": "gpt-3.5-turbo",
+  "parametros_geracao_historia": "crie um texto que sera narrado para um video do tiktok, com descricoes bacanas para criancas, no minimo 200 palavras, no máximo 300 palavras, bem animado, sobre uma historia infantil, que deve durar menos de 1 minuto, precisa se pedir para se inscrever no canal, Faixa Etaria do publico Alvo: 4 a 6 anos. O tom que eu gostaria de seguir na historia e ludico e inspirador, com elementos educativos sutis. A ideia e divertir as criancas com personagens cativantes e um enredo simples, preferencialmente sempre com a moral da historia no final, segue o titulo e uma descricao para voce criar o resto:"
+}
